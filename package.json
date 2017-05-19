@@ -1,0 +1,10 @@
+{
+  "name": "bls-owl-mapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "xml2js": "^0.4.17"
+  }
+}
